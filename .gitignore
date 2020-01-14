@@ -1,0 +1,4 @@
+# env variable don't go to github
+
+.env
+node_modules
